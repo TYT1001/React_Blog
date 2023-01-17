@@ -1,16 +1,10 @@
 {
   "blogs": [
     {
-      "id": 1,
-      "title": "The Importance of Exercise",
-      "body": "Regular exercise is essential for maintaining good physical and mental health. It can reduce the risk of chronic diseases, improve cardiovascular function, and boost mood and energy levels. Whether you're a beginner or an experienced athlete, there are many ways to incorporate physical activity into your daily routine, including walking, cycling, swimming, and strength training. So, make sure to make time for exercise and stay active!",
-      "author": "John Doe"
-    },
-    {
-      "id": 2,
-      "title": "The Benefits of Eating a Balanced Diet",
-      "body": "Eating a balanced diet is crucial for maintaining good health and preventing chronic diseases. A balanced diet includes a variety of foods from all food groups, including fruits and vegetables, grains, proteins, and healthy fats. It also involves watching portion sizes and limiting processed and sugary foods. Eating a balanced diet can help you maintain a healthy weight, improve energy levels, and promote overall well-being.",
-      "author": "Jane Smith"
+      "title": "The importance of doing exercise",
+      "author": "yoshi",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure, sequi. Blanditiis officiis qui quisquam quia, molestias molestiae ex velit sit quas, itaque fugit fugiat excepturi aspernatur at consectetur? Rem, natus.",
+      "id": 1
     }
   ]
 }
